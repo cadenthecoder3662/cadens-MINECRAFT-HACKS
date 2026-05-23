@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "cadenshacks",
+  "version": "3.0.0",
+  "name": "Cadens Hacks 3.0",
+  "description": "Press M for the hack menu. 37 hacks total.",
+  "authors": ["Cadenthegoat3662"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.oreradar.OreRadar"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*"
+  }
+}
